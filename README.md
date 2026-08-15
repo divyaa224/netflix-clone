@@ -6,22 +6,27 @@ This project goes beyond a basic UI clone by implementing real user authenticati
 
 > **Disclaimer:** This project is created for educational and portfolio purposes. It is not affiliated with, endorsed by, or officially connected to Netflix, Inc.
 
----
+
+<br>
 
 ## 📸 Screenshots
 
-Add your project screenshots to the `./screenshots/` directory and uncomment the sections below.
+Landing Page 
 
-```md
-![Landing Page](./screenshots/landing.png)
-![Home Page](./screenshots/home.png)
-![Browse / Search](./screenshots/browse.png)
-![Watchlist](./screenshots/watchlist.png)
-![Login Page](./screenshots/login.png)
-```
+![Landing Page](./screenshots/landing.png) 
+Home Page 
+![Home Page](./screenshots/home.png) 
 
+Browse / Search 
+![Browse / Search](./screenshots/browse.png) 
+Watchlist |
+![Watchlist](./screenshots/watchlist.png) 
+
+Login Page 
+![Login Page](./screenshots/login.png) 
+
+<br/>
 ---
-
 ## ✨ Features
 
 ### 🎯 Landing & Authentication
